@@ -1,4 +1,7 @@
-# api documentation for  [ember-one-way-controls (v2.0.0)](https://github.com/dockyard/ember-one-way-controls#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-one-way-controls.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-one-way-controls) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-one-way-controls.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-one-way-controls)
+# npmdoc-ember-one-way-controls
+
+#### api documentation for  [ember-one-way-controls (v2.0.0)](https://github.com/dockyard/ember-one-way-controls#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-one-way-controls.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-one-way-controls) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-one-way-controls.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-one-way-controls)
+
 #### Native one way controls
 
 [![NPM](https://nodei.co/npm/ember-one-way-controls.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-one-way-controls)
@@ -95,7 +98,8 @@
         "start": "ember server",
         "test": "ember try:each"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
